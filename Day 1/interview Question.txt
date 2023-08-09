@@ -1,0 +1,20 @@
+WHAT IS GARABAGE COLLECTOR
+MANAGED AND UNMANAGED CODE?
+INTERFACES
+WHAT IS STATIC AND ABSTRACT
+WHAT IS I DISPOSE ?
+HOW TO CONNECT SQL SERVER IN ANY FRAME WORK (ENTITY FRAME WORK )?
+KNOW ABOUT SERILIZATION? WHEN TO USE AND DIFERENT TYPE OF SERILIZATION
+WHAT IS PARTIAL METHODS
+What is Boxing and Unboxing
+difference between a struct and a class
+enum 
+difference between “continue” and “break” statements
+difference between ref and out keywords
+difference between Dispose and Finalize
+String and StringBuilder
+delegate 
+Arrays 
+difference between the Array.CopyTo() and Array.Clone()
+Can Multiple Catch Blocks be executed in C#
+Object Pooling
